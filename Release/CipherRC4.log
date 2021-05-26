@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\jramosdi\source\repos\CipherRC4\main.c(43,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jramosdi\source\repos\CipherRC4\main.c(80,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 9 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CipherRC4.vcxproj -> C:\Users\jramosdi\source\repos\CipherRC4\Release\CipherRC4.exe

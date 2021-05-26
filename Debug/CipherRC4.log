@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\jramosdi\source\repos\CipherRC4\main.c(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jramosdi\source\repos\CipherRC4\main.c(56,10): warning C4013: 'getch' undefined; assuming extern returning int
+  CipherRC4.vcxproj -> C:\Users\jramosdi\source\repos\CipherRC4\Debug\CipherRC4.exe
