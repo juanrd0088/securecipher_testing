@@ -83,16 +83,6 @@ int testMode() {
         printf("\n");
 
     }
-
-    /*unsigned char* ciphered = malloc(sizeof(int) * strlen(test_vectors[0][1]));
-
-    rc4(test_vectors[0][0], test_vectors[0][1], ciphered);
-
-    for (int i = 0; i < strlen(test_vectors[0][1]); i++) {
-        printf("%02X", ciphered[i]);
-    }
-    printf("\n");*/
-
     return 0;
 }
 
